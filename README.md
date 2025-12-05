@@ -35,11 +35,13 @@ The model calculates an **Adjusted Pace** by removing the predicted time impact 
 ## Visualizations
 
 ### Running Pace Over Time (Outliers Removed)
-![Running Pace Trend](pace_trend.png)
+<img width="1156" height="547" alt="image" src="https://github.com/user-attachments/assets/5a658742-69f3-4e4c-9593-1278e9f61bf2" />
+
 *The trendline shows a decrease in pace (minutes per mile) over time, indicating increased speed.*
 
 ### Adjusted Running Pace Over Time
-![Adjusted Pace Trend](adjusted_pace_trend.png)
+<img width="1152" height="547" alt="image" src="https://github.com/user-attachments/assets/b0462a2a-1e78-4c7e-8730-b75e23145da1" />
+
 *This plot accounts for elevation and distance. The trendline remains negative, confirming true fitness gains.*
 
 ## Analysis & Conclusion
